@@ -1,0 +1,3 @@
+rootProject.name = 'Top10Movies'
+
+include ':app'
